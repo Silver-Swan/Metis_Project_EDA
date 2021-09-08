@@ -1,4 +1,4 @@
-# Effective Locations and Time for Collecting Emails
+# Effective Locations and Times for Collecting Emails
 
 The initial plan is to present what subway station and time or times of day are going to be optimal for gathering people's info to support WomenTechWomenYes.
 
