@@ -1,6 +1,7 @@
 # Effective Locations and Times for Collecting Emails
 
-__Questions/Needed__
+*Questions/Needed*
+<br>
 The initial plan is to present what subway station and time or times of day are going to be optimal for gathering people's info to support WomenTechWomenYes. Considering the time or times of day with the most amount of people will help prioritize the placement of their street team.
 
 Data Description
