@@ -19,4 +19,6 @@
 
 - The graph illustrates that the optimal time to place the street teams are between 4 pm and 8 pm at the turnstiles on 34 ST and Harold SQ. 
 
-- The information this graph shows that from midnight to noon, there is a stead incread of people using this stations entrance.
+- The information this graph shows that from midnight to noon, there is a steady increase of people using this stations entrance.
+
+- There is a fair chance that the people using this turnstile is going to be a mixture of local New Yorkers and tourist, but at this time frame that likelihood drops. 
