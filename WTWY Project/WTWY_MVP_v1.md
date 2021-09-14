@@ -12,9 +12,10 @@
 - As well as, verifying that the emails collected are local people that can attend meetups and other social events held by the company. 
 
 - During the pandemic, these turnstiles were still being used for people coming and going into Jersey City.
-
-
-
+<br>
+<br>
+<br>
+<br>
 ![The Amount of Passengers entering at 34 ST and Harold SQ over the span of 3 months](https://github.com/Silver-Swan/WomanTechWomen-Project/blob/master/WTWY%20Project/images1/Number%20of%20passangers%20entering%20at%2034%20ST%20and%20Harold%20SQ%20station%20in%20the%20span%20of%203%20months.png)
 
 - The data used for the graph was the number of people entering the tunrstile at 34 ST and Harold SQ station. 
