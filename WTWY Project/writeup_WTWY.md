@@ -17,6 +17,6 @@ The data analyzed for this project was the NYC MTA turnstile collected from thei
 The first step was to aquire the data. I used SQLite to select narrow the data to the months of June 2021 to Auguest 2021. Afterwords I used cleaned the data to allow for an easier analysis. I used pandas to create a dataframe of the orignial data then further create sub-dataframes that were group by only the catagorizes I need to help present my ideas. Afterward, I used matplotlib to create a bar and line graph.   
 
 ## Tools
--- SQLAlchemy was used to select the three months for the data analysis.
--- Pandas and Numpy were used to create a data frame and perform calculations on the data.
--- For the graphs, matplotlib libray was sourced.
+-SQLAlchemy was used to select the three months for the data analysis.
+- Pandas and Numpy were used to create a data frame and perform calculations on the data.
+- For the graphs, matplotlib libray was sourced.
