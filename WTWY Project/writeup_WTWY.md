@@ -1,7 +1,7 @@
 WTWY_WriteUp.md
 
 # Optimal Placement for WomenTechWoemnYes Street Teams.
-----------
+
 Edward Kerr
 
 ## Abstract
